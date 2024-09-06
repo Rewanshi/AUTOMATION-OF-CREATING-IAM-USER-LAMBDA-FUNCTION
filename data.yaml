@@ -1,0 +1,24 @@
+Users:
+  - user1
+  - user2
+  - user3
+  - user6
+  - newUser
+  - HeadAdmin
+  - intern3
+  - intern1
+  - intern2
+
+GroupAssignment:
+  Admin:
+    - user1
+    - user2
+    - user3
+  Developer:
+    - user6
+    - newUser
+    - HeadAdmin
+  ViewOnly:
+    - intern1
+    - intern2
+    - intern3
